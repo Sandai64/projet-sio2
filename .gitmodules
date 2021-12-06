@@ -7,3 +7,6 @@
 [submodule "SIO2-syncdb"]
 	path = SIO2-syncdb
 	url = git@github.com:erwangse/SIO2-syncdb.git
+[submodule "sio2-syncdb"]
+	path = sio2-syncdb
+	url = git@github.com:erwangse/sio2-syncdb.git
