@@ -1,0 +1,9 @@
+[submodule "SIO2-Back-End"]
+	path = SIO2-Back-End
+	url = https://github.com/erwangse/SIO2-Back-End.git
+[submodule "SIO2-Front-End"]
+	path = SIO2-Front-End
+	url = git@github.com:erwangse/SIO2-Front-End.git
+[submodule "SIO2-syncdb"]
+	path = SIO2-syncdb
+	url = git@github.com:erwangse/SIO2-syncdb.git
