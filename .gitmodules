@@ -4,6 +4,7 @@
 [submodule "sio2-back-end"]
 	path = sio2-back-end
 	url = git@github.com:erwangse/sio2-back-end.git
+	branch = main
 [submodule "sio2-front-end"]
 	path = sio2-front-end
 	url = git@github.com:erwangse/sio2-front-end.git
